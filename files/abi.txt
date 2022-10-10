@@ -1,0 +1,9 @@
+[
+  {
+    "constant": true,
+    "inputs": [{"name": "term", "type":"uint256"}],
+    "name": "claimRank",
+    "outputs": [],
+    "type": "function"
+  }
+]
